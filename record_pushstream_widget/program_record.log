@@ -1,0 +1,108 @@
+2023-06-19 09:28:57 748: **************************video thread is running*******************************************
+2023-06-19 09:28:57 748: **************************mux thread is running*******************************************
+2023-06-19 09:28:57 748: **************************audio thread is running*******************************************
+2023-06-19 09:28:58 054: [video stream info] frame_rate_30
+2023-06-19 09:28:58 151: [audio stream info] bit_rate_1536000 sample_rate_48000 sample_channels_2
+2023-06-19 09:28:58 152: [video record start time] 6.669s
+2023-06-19 09:28:58 152: [audio record start time] 6.668s
+2023-06-19 09:29:39 519: **************************mux thread is running*******************************************
+2023-06-19 09:29:39 519: **************************audio thread is running*******************************************
+2023-06-19 09:29:39 519: **************************video thread is running*******************************************
+2023-06-19 09:29:39 833: [video stream info] frame_rate_30
+2023-06-19 09:29:39 927: [audio stream info] bit_rate_1536000 sample_rate_48000 sample_channels_2
+2023-06-19 09:29:39 928: [video record start time] 3.357s
+2023-06-19 09:29:39 928: [audio record start time] 3.357s
+2023-06-19 09:30:20 784: **************************audio thread is running*******************************************
+2023-06-19 09:30:20 784: **************************mux thread is running*******************************************
+2023-06-19 09:31:21 711: **************************mux thread is running*******************************************
+2023-06-19 09:31:21 711: **************************audio thread is running*******************************************
+2023-06-19 09:31:21 711: **************************video thread is running*******************************************
+2023-06-19 09:31:21 986: [audio stream info] bit_rate_1536000 sample_rate_48000 sample_channels_2
+2023-06-19 09:31:22 025: [video stream info] frame_rate_30
+2023-06-19 09:31:22 026: [audio record start time] 7.314s
+2023-06-19 09:31:22 026: [video record start time] 7.314s
+2023-06-19 09:31:32 066: [audio record finish time] 17.354s
+2023-06-19 09:31:32 066: [audio record total time] 10.04s
+2023-06-19 09:31:32 067: [audio stream total frame] 1009
+2023-06-19 09:31:32 080: [video record finish time] 17.369s
+2023-06-19 09:31:32 081: [video record total time] 10.055s
+2023-06-19 09:31:32 081: [video stream total frame] 303
+2023-06-19 09:31:32 111: [mux total frame] 777
+2023-06-19 09:31:54 262: **************************mux thread is running*******************************************
+2023-06-19 09:31:54 262: **************************audio thread is running*******************************************
+2023-06-19 09:31:54 263: **************************video thread is running*******************************************
+2023-06-19 09:31:54 540: [audio stream info] bit_rate_1536000 sample_rate_48000 sample_channels_2
+2023-06-19 09:31:54 604: [video stream info] frame_rate_10
+2023-06-19 09:31:54 605: [video record start time] 39.894s
+2023-06-19 09:31:54 605: [audio record start time] 39.894s
+2023-06-19 09:32:05 436: [audio record finish time] 50.725s
+2023-06-19 09:32:05 437: [audio record total time] 10.831s
+2023-06-19 09:32:05 437: [audio stream total frame] 1091
+2023-06-19 09:32:05 455: [mux total frame] 621
+2023-06-19 09:32:05 496: [video record finish time] 50.785s
+2023-06-19 09:32:05 497: [video record total time] 10.891s
+2023-06-19 09:32:05 498: [video stream total frame] 110
+2023-06-19 09:32:42 260: **************************mux thread is running*******************************************
+2023-06-19 09:32:42 261: **************************video thread is running*******************************************
+2023-06-19 09:32:42 261: **************************audio thread is running*******************************************
+2023-06-19 09:32:42 454: [video stream info] frame_rate_10
+2023-06-19 09:32:42 533: [audio stream info] bit_rate_1536000 sample_rate_48000 sample_channels_2
+2023-06-19 09:32:42 534: [video record start time] 87.822s
+2023-06-19 09:32:42 534: [audio record start time] 87.822s
+2023-06-19 09:32:45 276: [audio record finish time] 90.565s
+2023-06-19 09:32:45 277: [audio record total time] 2.743s
+2023-06-19 09:32:45 277: [audio stream total frame] 276
+2023-06-19 09:32:45 343: [mux total frame] 161
+2023-06-19 09:32:45 345: [video record finish time] 90.634s
+2023-06-19 09:32:45 346: [video record total time] 2.812s
+2023-06-19 09:32:45 347: [video stream total frame] 30
+2023-06-19 09:48:39 338: **************************audio thread is running*******************************************
+2023-06-19 09:48:39 338: **************************mux thread is running*******************************************
+2023-06-19 09:48:39 338: **************************video thread is running*******************************************
+2023-06-19 09:48:41 449: [video stream info] frame_rate_30
+2023-06-19 09:48:41 954: [audio stream info] bit_rate_1536000 sample_rate_48000 sample_channels_2
+2023-06-19 09:48:41 955: [video record start time] 11.692s
+2023-06-19 09:48:41 955: [audio record start time] 11.692s
+2023-06-19 09:48:57 656: [audio record finish time] 27.393s
+2023-06-19 09:48:57 656: [audio record total time] 15.701s
+2023-06-19 09:48:57 657: [audio stream total frame] 1571
+2023-06-19 09:48:57 680: [video record finish time] 27.417s
+2023-06-19 09:48:57 680: [video record total time] 15.725s
+2023-06-19 09:48:57 681: [video stream total frame] 474
+2023-06-19 09:48:57 755: [mux total frame] 1211
+2023-06-19 09:49:13 925: **************************mux thread is running*******************************************
+2023-06-19 09:49:13 925: **************************video thread is running*******************************************
+2023-06-19 09:49:13 926: **************************audio thread is running*******************************************
+2023-06-19 09:49:15 439: [audio stream info] bit_rate_1536000 sample_rate_48000 sample_channels_2
+2023-06-19 09:49:15 905: [video stream info] frame_rate_30
+2023-06-19 09:49:15 907: [video record start time] 45.644s
+2023-06-19 09:49:15 907: [audio record start time] 45.644s
+2023-06-19 09:49:24 449: [audio record finish time] 54.186s
+2023-06-19 09:49:24 450: [audio record total time] 8.542s
+2023-06-19 09:49:24 451: [audio stream total frame] 902
+2023-06-19 09:49:24 471: [video record finish time] 54.208s
+2023-06-19 09:49:24 471: [video record total time] 8.564s
+2023-06-19 09:49:24 472: [video stream total frame] 258
+2023-06-19 09:49:24 525: [mux total frame] 683
+2023-06-19 13:56:01 615: **************************audio thread is running*******************************************
+2023-06-19 13:56:01 615: **************************video thread is running*******************************************
+2023-06-19 13:56:01 615: **************************mux thread is running*******************************************
+2023-06-19 13:56:01 628: [error!] Couldn't open video input stream.
+2023-06-19 14:15:18 693: **************************video thread is running*******************************************
+2023-06-19 14:15:18 693: **************************audio thread is running*******************************************
+2023-06-19 14:15:18 693: **************************mux thread is running*******************************************
+2023-06-19 14:15:18 999: [video stream info] frame_rate_30
+2023-06-19 14:15:19 109: [audio stream info] bit_rate_1536000 sample_rate_48000 sample_channels_2
+2023-06-19 14:15:19 110: [video record start time] 1.781s
+2023-06-19 14:15:19 110: [audio record start time] 1.781s
+2023-06-19 14:15:20 738: [audio record finish time] 3.409s
+2023-06-19 14:15:20 739: [audio record total time] 1.628s
+2023-06-19 14:15:20 739: [audio stream total frame] 164
+2023-06-19 14:15:20 753: [video record finish time] 3.423s
+2023-06-19 14:15:20 754: [video record total time] 1.642s
+2023-06-19 14:15:20 754: [video stream total frame] 51
+2023-06-19 14:15:20 813: [mux total frame] 129
+2023-07-18 16:03:20 222: **************************audio thread is running*******************************************
+2023-07-18 16:03:20 222: **************************mux thread is running*******************************************
+2023-07-18 16:03:20 222: **************************video thread is running*******************************************
+2023-07-18 16:03:20 239: [mux error!] Could not open C:/Users/Lenovo/Desktop/????/record_pushstream_widget/x64/Debug/2023-07-18-16-03-20.mp4: Invalid argument
